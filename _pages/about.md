@@ -13,7 +13,7 @@ My name is Ljudmila Petković, I am a PhD student in [French and Comparative Lit
 Background
 ======
 
-I began my PhD thesis in October 2021, under the supervision of Prof. Dr Glenn Roe and Dr Motasem Alrahabi (Sorbonne University), which is financed by the [OPUS](https://institut-opus.sorbonne-universite.fr/) institute (Observatory of Heritage of Sorbonne University). In parallel, I am completing my [Certificate of Specialization in Linguistics](https://www.unige.ch/lettres/linguistique/program/postgrade/) at the University of Geneva, Faculty of Humanities, Department of Linguistics. I obtained my Master's degree in Social Sciences and Computing at the University of Belgrade in Serbia, interdisciplinary study program. I also obtained my Master's and Bachelor's degree in Greek Language, Literature and Culture at the University of Belgrade, Faculty of Philology in Serbia.
+I began my PhD thesis in October 2021 under the supervision of Prof. Dr Glenn Roe and Dr Motasem Alrahabi (Sorbonne University), which is financed by the [OPUS](https://institut-opus.sorbonne-universite.fr/) institute (Observatory of Heritage of Sorbonne University). In parallel, I am completing my [Certificate of Specialization in Linguistics](https://www.unige.ch/lettres/linguistique/program/postgrade/) at the University of Geneva, Faculty of Humanities, Department of Linguistics. I obtained my Master's degree in Social Sciences and Computing within the interdisciplinary study program at the University of Belgrade in Serbia. I also obtained my Master's and Bachelor's degree in Greek Language, Literature and Culture at the University of Belgrade, Faculty of Philology in Serbia.
 
 ---
 
