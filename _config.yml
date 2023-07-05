@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ljudmila PETKOVIC"
   avatar           : "portrait_Ljudmila.jpeg"
-  bio              : "PhD student in Digital Humanities"
+  bio              : "PhD Student in Digital Humanities \n Sorbonne University, Faculty of Humanities \n"
   location         : "Paris, France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ljudmila-petkovic-75b246202/"
   orcid            : "https://orcid.org/0000-0003-2694-4096"
   pinterest        :
   soundcloud       :
