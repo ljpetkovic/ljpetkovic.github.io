@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ljudmila PETKOVIC"
-  avatar           : "portrait_Ljudmila.jpg"
+  avatar           : "portrait_Ljudmila.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ljpetkovic"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2694-4096"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/LjudmilaPetkov1"
   vine             :
   weibo            :
   xing             :
