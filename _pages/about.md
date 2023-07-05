@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ljudmila Petković, I am a PhD student in [French and Comparative Literature (Doctoral School 019)](https://www.sorbonne-universite.fr/node/2040) at the Sorbonne University in Paris (France) specializing in the field of Digital Humanities. I am also member of the Center for the Study of French Language and Literature ([CELLF](https://cellf.cnrs.fr/)), UMR 8599, and of the Observatory of Texts, Ideas and Corpora ([ObTIC](https://obtic.sorbonne-universite.fr/)). 
+My name is Ljudmila Petković, I am a PhD student in [French and Comparative Literature (Doctoral School 019)](https://www.sorbonne-universite.fr/node/2040) at the Sorbonne University in Paris (France), specializing in the field of Digital Humanities. I am also member of the Center for the Study of French Language and Literature ([CELLF](https://cellf.cnrs.fr/)), UMR 8599, and of the Observatory of Texts, Ideas and Corpora ([ObTIC](https://obtic.sorbonne-universite.fr/)). 
 
 Background
 ======
