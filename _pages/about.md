@@ -24,9 +24,9 @@ My research focuses on Digital Humanities (DH), Natural Language Processing (NLP
 Within the scope of my PhD thesis I am currently working on the tracking of the circulation of the medical discourse of Jean-Martin Charcot, founder of modern neurology in the XIX century.
 
 **DH**: optical character recognition (OCR), handwritten text recognition (HTR),
-data structuring in XML-TEI format, publication of queryable digital editions.
+data structuring in XML-TEI format, publication of queryable digital editions
 
-**NLP**: text mining, computational linguistics.
+**NLP**: text mining, computational linguistics
 
 **DL**: Transformers Models
 
