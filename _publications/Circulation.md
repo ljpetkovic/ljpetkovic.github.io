@@ -1,5 +1,5 @@
 ---
-title: "Circulation du discours médical de Jean-Martin Charcot : premières observations."
+title: "Circulation of Jean-Martin Charcot’s Medical Discourse: First Observations."
 collection: publications
 permalink: /publication/Circulation
 date: 2023-05-26
