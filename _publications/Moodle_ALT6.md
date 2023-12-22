@@ -5,7 +5,7 @@ permalink: /publication/NLTK
 date: 2018-11-26
 venue: '2018 26th Telecommunications Forum (TELFOR).'
 paperurl: 'https://doi.org/10.19090/mv.2018.9.179-200'
-citation: '<b>Petković, Lj.</b> (2018). Implementation of Text Mining Techniques Using NLTK in Python Programming Language. <i>2018 26th Telecommunications Forum (TELFOR)</i>, Serbia, Belgrade, November 20-21, 2018.'
+citation: '<b>Petković, Lj.</b> (2018). Implementation of Text Mining Techniques Using NLTK in Python Programming Language. <i>2018 26th Telecommunications Forum (TELFOR), Serbia, Belgrade, November 20-21, 2018.'
 ---
 <!--[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 
