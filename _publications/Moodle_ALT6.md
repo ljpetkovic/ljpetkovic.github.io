@@ -3,7 +3,7 @@ title: "From an Advertisement to the Moodle Platform – an Example of Good Prac
 collection: publications
 permalink: /publication/Moodle_ALT6
 date: 2018-10-12
-venue: '6th International Congress &quot;Applied Linguistics Today 6 – Language, Literature and Interdisciplinarity&quot;, Faculty of Philology, University of Belgrade, Serbia, 12–13.10.2018..'
+venue: '6th International Congress &quot;Applied Linguistics Today 6 – Language, Literature and Interdisciplinarity&quot;.'
 paperurl: 'https://drive.google.com/file/d/1rzU5Gk8ba-nhAWup5Z5jAjHeKdHT3TKA/view'
 citation: '<b>Petković, Lj.</b> (2018). Use of the Online Platform Moodle in the Reformed Teaching within the Department of Neohelenistic Studies at the Faculty of Philology, University of Belgrade. <i>6th International Congress &quot;Applied Linguistics Today 6 – Language, Literature and Interdisciplinarity&quot; (Book of Abstracts)</i>, Faculty of Philology, University of Belgrade, Serbia, 12–13.10.2018., p. 41.'
 ---
