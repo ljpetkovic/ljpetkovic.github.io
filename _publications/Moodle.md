@@ -1,6 +1,6 @@
 ---
 title: "Use of the Online Platform Moodle in the Reformed Teaching within the Department of Neohelenistic Studies at the Faculty of Philology,
-University of Belgrade"
+University of Belgrade."
 collection: publications
 permalink: /publication/Moodle
 date: 2018-08-15
