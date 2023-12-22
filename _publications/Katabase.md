@@ -1,5 +1,5 @@
 ---
-title: "Katabase: À la recherche des manuscrits vendus."
+title: "Katabase: In Search of Lost Manuscripts."
 collection: publications
 permalink: /publication/Katabase
 date: 2020-12-15

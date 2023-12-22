@@ -1,5 +1,5 @@
 ---
-title: "Toolbox : une chaîne de traitement de corpus pour les humanités numériques."
+title: "Toolbox : a corpus processing pipeline for digital humanities."
 collection: publications
 permalink: /publication/Toolbox
 date: 2022-06-24

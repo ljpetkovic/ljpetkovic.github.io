@@ -1,5 +1,6 @@
 ---
-title: "Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité."
+title: "Impact of Automatic OCR/HTR Correction on Named Entity 
+Recognition in Noisy Corpora."
 collection: publications
 permalink: /publication/Corr_OCR_REN
 date: 2023-04-08
