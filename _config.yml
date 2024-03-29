@@ -182,9 +182,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-    #output: true
-    #permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -194,15 +191,6 @@ collections:
   colloquia:
     output: true
     permalink: /:collection/:path/
-  # studydays:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # congresses:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # workshops:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 
 # Defaults
