@@ -188,6 +188,21 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  seminars:
+    output: true
+    permalink: /:collection/:path/
+  colloquia:
+    output: true
+    permalink: /:collection/:path/
+  study_days:
+    output: true
+    permalink: /:collection/:path/
+  congresses:
+    output: true
+    permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
