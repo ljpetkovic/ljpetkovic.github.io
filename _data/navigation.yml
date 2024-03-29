@@ -9,17 +9,17 @@ main:
   - title: "Seminars"
     url: /seminars/   
 
-    # - title: "Colloquia"
-    # url: /colloquia/  
+    - title: "Colloquia"
+    url: /colloquia/  
 
-    # - title: "Study Days"
-    # url: /study_days/   
+    - title: "Study Days"
+    url: /studydays/   
 
-    # - title: "Congresses"
-    # url: /congresses/    
+    - title: "Congresses"
+    url: /congresses/    
 
-    # - title: "Workshops"
-    # url: /workshops/    
+    - title: "Workshops"
+    url: /workshops/    
 
   - title: "Enseignements"
     url: /teaching/    
