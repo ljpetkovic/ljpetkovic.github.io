@@ -4,7 +4,22 @@ main:
     url: /publications/
 
   - title: "Communications"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Seminars"
+    url: /seminars/   
+
+    - title: "Colloquia"
+    url: /colloquia/  
+
+    - title: "Study Days"
+    url: /study_days/   
+
+    - title: "Congresses"
+    url: /congresses/    
+
+    - title: "Workshops"
+    url: /workshops/    
 
   - title: "Enseignements"
     url: /teaching/    
