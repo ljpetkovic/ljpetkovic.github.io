@@ -12,20 +12,20 @@ main:
     - title: "Colloquia"
     url: /colloquia/  
 
-    - title: "Study Days"
-    url: /studydays/   
+  #   - title: "Study Days"
+  #   url: /studydays/   
 
-    - title: "Congresses"
-    url: /congresses/    
+  #   - title: "Congresses"
+  #   url: /congresses/    
 
-    - title: "Workshops"
-    url: /workshops/    
+  #   - title: "Workshops"
+  #   url: /workshops/    
 
-  - title: "Enseignements"
-    url: /teaching/    
+  # - title: "Enseignements"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   #- title: "Blog Posts"
     #url: /year-archive/
