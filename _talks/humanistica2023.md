@@ -8,7 +8,5 @@ date: 2023-06-28
 location: "Geneva, Switzerland"
 ---
 
-##### Circulation of Jean-Martin Charcot's Medical Discourse : First Observations
-
 [Slides](https://drive.google.com/file/d/1nvXmHINRoRbEiLkexDHh0Iw5uiZ5mh4z/view)
 
