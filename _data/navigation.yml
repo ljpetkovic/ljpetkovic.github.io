@@ -9,9 +9,6 @@ main:
   - title: "Seminars"
     url: /seminars/   
 
-    - title: "Colloquia"
-    url: /colloquia/  
-        
   #- title: "Blog Posts"
     #url: /year-archive/
     

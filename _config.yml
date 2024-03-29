@@ -188,9 +188,6 @@ collections:
   seminars:
     output: true
     permalink: /:collection/:path/
-  colloquia:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
