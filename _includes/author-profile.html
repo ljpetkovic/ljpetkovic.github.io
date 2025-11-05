@@ -118,6 +118,14 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.hal %}
+  <li>
+    <a href="https://cv.hal.science/{{ author.hal }}">
+      <i class="fa fa-fw fa-university" aria-hidden="true"></i> HAL
+    </a>
+  </li>
+{% endif %}
+
     </ul>
   </div>
 </div>
