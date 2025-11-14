@@ -2,6 +2,7 @@
 layout: talk
 title: "Katabase : À la recherche des manuscrits vendus"
 collection: talks
+category: "colloque"
 type: "Conference"
 event: "Humanistica 2021"
 venue: "IRISA"
