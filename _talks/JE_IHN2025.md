@@ -2,7 +2,7 @@
 layout: talk
 title: "Analyse de l'influence de Jean-Martin Charcot par extraction de terminologie médicale : approche PatternRank"
 collection: talks
-category: "journee"
+category: "Conference"
 type: "Talk"
 date: 2025-11-07
 venue: "Journée d'étude : Humanités Numériques et Intelligence Artificielle – Interactions / Altercations"
