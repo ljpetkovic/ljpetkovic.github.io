@@ -3,6 +3,7 @@ layout: talk
 title: "Analyse de l'impact scientifique de Jean-Martin Charcot sur la littérature médicale en français du XIX<sup>e</sup> au XX<sup>e</sup> siècle"
 collection: talks
 type: "Conference"
+category: "colloque"
 event: "Le Texte de l'autre : intertextualité et discours rapporté"
 venue: "Sorbonne Nouvelle — Maison de la Recherche &amp; École des Chartes"
 location: "Paris, France"

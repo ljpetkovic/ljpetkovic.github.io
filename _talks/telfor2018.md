@@ -2,6 +2,7 @@
 layout: talk
 title: "Implémentation de techniques de fouille de textes en Python avec NLTK"
 collection: talks
+category: "congres"
 type: "Conference"
 event: "TELFOR 2018"
 venue: "Belgrade"
