@@ -5,48 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2>Colloques</h2>
-{% assign items = site.talks_list | where: "category", "colloque" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% if site.talkmap_link == true %}
 
-<hr />
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-<h2>Journées d’étude</h2>
-{% assign items = site.talks_list | where: "category", "journee" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% endif %}
 
-<hr />
-
-<h2>Congrès</h2>
-{% assign items = site.talks_list | where: "category", "congres" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-<hr />
-
-<h2>Séminaires</h2>
-{% assign items = site.talks_list | where: "category", "seminaire" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-<hr />
-
-<h2>Ateliers</h2>
-{% assign items = site.talks_list | where: "category", "atelier" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-<hr />
-
-<h2>Posters</h2>
-{% assign items = site.talks_list | where: "category", "poster" | sort: "date" | reverse %}
-{% for item in items %}
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
