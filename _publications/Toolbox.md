@@ -1,5 +1,5 @@
 ---
-title: "Toolbox: a corpus processing pipeline for digital humanities."
+title: "Toolbox: a corpus processing pipeline for digital humanities"
 collection: publications
 permalink: /publication/Toolbox
 date: 2022-06-24
