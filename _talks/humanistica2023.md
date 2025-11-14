@@ -1,11 +1,15 @@
 ---
-title: "humanistica"
+layout: talk
+title: "Circulation du discours médical de Jean-Martin Charcot : premières observations"
 collection: talks
-type: "Talk"
-permalink: /talks/humanistica2023
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "Conference"
+event: "Humanistica 2023"
+venue: "Université de Genève"
+location: "Genève, Suisse"
+date: 2023-06-23
+links:
+  - label: "Programme"
+    url: "https://humanistica2023.sciencesconf.org/program/details"
 ---
 
-hallo
+Communication présentée lors du colloque Humanistica 2023.
