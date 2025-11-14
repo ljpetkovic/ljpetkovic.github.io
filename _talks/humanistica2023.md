@@ -3,7 +3,7 @@ layout: talk
 title: "Circulation du discours médical de Jean-Martin Charcot : premières observations"
 collection: talks
 category: "colloque"
-type: "Talk"
+type: "Conference"
 event: "Humanistica 2023"
 venue: "Université de Genève"
 location: "Genève, Suisse"
