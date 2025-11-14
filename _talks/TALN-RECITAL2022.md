@@ -2,6 +2,7 @@
 layout: talk
 title: "Pandore : a toolbox for digital humanities text-based workflows"
 collection: talks
+category: congres
 type: "Conference"
 event: "TALN-RÉCITAL 2022"
 venue: "University of Avignon"
