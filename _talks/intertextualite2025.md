@@ -12,4 +12,4 @@ links:
     url: "https://www.fabula.org/actualites/122618/le-texte-de-l-autre-dialogue-interdisciplinaire-autour-de-l-intertextualite-et-du-discours-rapporte.html"
 ---
 
-Communication présentée lors du colloque *Le Texte de l’autre*, Paris, 1–3 juillet 2025.
+Paper presented at the conference *The Text of the Other*, Paris, July 1–3, 2025.

@@ -12,4 +12,4 @@ links:
     url: "https://humanistica2023.sciencesconf.org/program/details"
 ---
 
-Communication présentée lors du colloque Humanistica 2023.
+Paper presented at the Humanistica 2023 conference.
