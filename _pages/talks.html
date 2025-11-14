@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2>Colloques</h2>
+<h2>Colloquia</h2>
 {% assign colloques = site.talks | where: "category", "colloque" | sort: "date" | reverse %}
 {% for post in colloques %}
   {% include archive-single-talk.html %}
@@ -13,7 +13,7 @@ author_profile: true
 
 <hr />
 
-<h2>Journées d’étude</h2>
+<h2>Study Days</h2>
 {% assign journees = site.talks | where: "category", "journee" | sort: "date" | reverse %}
 {% for post in journees %}
   {% include archive-single-talk.html %}
@@ -21,7 +21,7 @@ author_profile: true
 
 <hr />
 
-<h2>Congrès</h2>
+<h2>Congresses</h2>
 {% assign congres = site.talks | where: "category", "congres" | sort: "date" | reverse %}
 {% for post in congres %}
   {% include archive-single-talk.html %}
@@ -29,7 +29,7 @@ author_profile: true
 
 <hr />
 
-<h2>Séminaires</h2>
+<h2>Seminars</h2>
 {% assign seminaires = site.talks | where: "category", "seminaire" | sort: "date" | reverse %}
 {% for post in seminaires %}
   {% include archive-single-talk.html %}
@@ -37,7 +37,7 @@ author_profile: true
 
 <hr />
 
-<h2>Ateliers</h2>
+<h2>Workshops</h2>
 {% assign ateliers = site.talks | where: "category", "atelier" | sort: "date" | reverse %}
 {% for post in ateliers %}
   {% include archive-single-talk.html %}
