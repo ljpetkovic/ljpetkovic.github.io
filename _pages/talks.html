@@ -6,47 +6,47 @@ author_profile: true
 ---
 
 <h2>Colloques</h2>
-{% assign items = site.talks | where: "category", "colloque" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign colloques = site.talks | where: "category", "colloque" | sort: "date" | reverse %}
+{% for post in colloques %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr />
 
 <h2>Journées d’étude</h2>
-{% assign items = site.talks | where: "category", "journee" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign journees = site.talks | where: "category", "journee" | sort: "date" | reverse %}
+{% for post in journees %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr />
 
 <h2>Congrès</h2>
-{% assign items = site.talks | where: "category", "congres" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign congres = site.talks | where: "category", "congres" | sort: "date" | reverse %}
+{% for post in congres %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr />
 
 <h2>Séminaires</h2>
-{% assign items = site.talks | where: "category", "seminaire" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign seminaires = site.talks | where: "category", "seminaire" | sort: "date" | reverse %}
+{% for post in seminaires %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr />
 
 <h2>Ateliers</h2>
-{% assign items = site.talks | where: "category", "atelier" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign ateliers = site.talks | where: "category", "atelier" | sort: "date" | reverse %}
+{% for post in ateliers %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr />
 
 <h2>Posters</h2>
-{% assign items = site.talks | where: "category", "poster" | sort: "date" | reverse %}
-{% for item in items %}
+{% assign posters = site.talks | where: "category", "poster" | sort: "date" | reverse %}
+{% for post in posters %}
   {% include archive-single-talk.html %}
 {% endfor %}
