@@ -5,66 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% comment %}
-COLLOQUES
-{% endcomment %}
-## Colloques
-{% assign items = site.talks | where: "category", "colloque" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% if site.talkmap_link == true %}
 
----
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% comment %}
-JOURNÉES D'ÉTUDE
-{% endcomment %}
-## Journées d’étude
-{% assign items = site.talks | where: "category", "journee" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% endif %}
 
----
-
-{% comment %}
-CONGRÈS
-{% endcomment %}
-## Congrès
-{% assign items = site.talks | where: "category", "congres" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
----
-
-{% comment %}
-SÉMINAIRES
-{% endcomment %}
-## Séminaires
-{% assign items = site.talks | where: "category", "seminaire" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
----
-
-{% comment %}
-ATELIERS
-{% endcomment %}
-## Ateliers
-{% assign items = site.talks | where: "category", "atelier" | sort: "date" | reverse %}
-{% for item in items %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
----
-
-{% comment %}
-POSTERS
-{% endcomment %}
-## Posters
-{% assign items = site.talks | where: "category", "poster" | sort: "date" | reverse %}
-{% for item in items %}
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
