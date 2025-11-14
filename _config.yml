@@ -185,7 +185,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /talks/:path/
   seminars:
     output: true
     permalink: /:collection/:path/
