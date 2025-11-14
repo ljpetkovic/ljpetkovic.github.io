@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae
+<!-- # Curriculum Vitae -->
 
 Below you can view my CV directly.  
 You can also download it using the button below.
