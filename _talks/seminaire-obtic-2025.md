@@ -1,11 +1,11 @@
 ---
 layout: talk
-title: "Séminaire doctoral de l'équipe ObTIC : extraction de termes et de phrases-clés du corpus Charcot"
+title: "ObTIC doctoral seminar: extracting medical terms and key phrases from the Charcot corpus"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire doctoral de l'équipe ObTIC"
-venue: "Séminaire organisé par Glenn Roe et Motasem Alrahabi, SCAI"
+event: "ObTIC team doctoral seminar"
+venue: "Seminar organised by Glenn Roe and Motasem Alrahabi, SCAI"
 location: "Paris, France"
 date: 2025-04-15
 authors:
@@ -13,4 +13,4 @@ authors:
   - "Motasem Alrahabi"
 ---
 
-Trois interventions dans le cadre du séminaire doctoral ObTIC, SCAI, Paris : « Mesurer l'impact de Jean-Martin Charcot *via* l'extraction des termes médicaux : quelle approche adopter ? » (6 février 2025) ; « Comparaison des approches pour l'extraction de phrases-clés » (13 mars 2025) ; « Extraction de phrases-clés à partir du corpus Charcot : évaluations quantitative et qualitative » (15 avril 2025).
+Three talks within the ObTIC doctoral seminar, SCAI, Paris: "Measuring Jean-Martin Charcot's impact through medical-term extraction: which approach?" (February 6, 2025); "Comparing approaches to key-phrase extraction" (March 13, 2025); "Key-phrase extraction from the Charcot corpus: quantitative and qualitative evaluation" (April 15, 2025).

@@ -1,11 +1,11 @@
 ---
 layout: talk
-title: "Dans les petits papiers de Charcot : de l'expérimentation aux prémisses de la neurologie moderne"
+title: "In Charcot's private papers: from experimentation to the premises of modern neurology"
 collection: talks
 category: "journee"
 type: "Study Day"
-event: "Journée « Humanités numériques »"
-venue: "1<sup>re</sup> journée d'étude sur les humanités numériques, Sorbonne Université, Maison de la recherche"
+event: "\"Digital Humanities\" Study Day"
+venue: "1<sup>st</sup> study day on digital humanities, Sorbonne University, Maison de la recherche"
 location: "Paris, France"
 date: 2023-01-18
 authors:
@@ -13,4 +13,4 @@ authors:
   - "Motasem Alrahabi"
 ---
 
-Présentation de l'équipe-projet ObTIC et du projet doctoral, 1<sup>re</sup> journée d'étude HN de Sorbonne Université, Paris, 18 janvier 2023.
+Presentation of the ObTIC project team and the doctoral project, 1<sup>st</sup> DH study day of Sorbonne University, Paris, January 18, 2023.

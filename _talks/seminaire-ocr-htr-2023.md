@@ -1,15 +1,15 @@
 ---
 layout: talk
-title: "Numérisation de documents : transcription, annotation, OCR, HTR, correction…"
+title: "Document digitisation: transcription, annotation, OCR, HTR, correction…"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire · atelier doctoral sur l'OCR et l'HTR"
-venue: "Séminaire organisé par le Centre Roland Mousnier, Faculté des Lettres de Sorbonne Université"
+event: "Doctoral seminar / workshop on OCR and HTR"
+venue: "Seminar organised by the Centre Roland Mousnier, Faculty of Letters, Sorbonne University"
 location: "Paris, France"
 date: 2023-11-22
 authors:
   - "Motasem Alrahabi"
 ---
 
-Séminaire · atelier doctoral sur l'OCR et l'HTR, Centre Roland Mousnier, Paris, 22 novembre 2023.
+Doctoral seminar/workshop on OCR and HTR, Centre Roland Mousnier, Paris, November 22, 2023.

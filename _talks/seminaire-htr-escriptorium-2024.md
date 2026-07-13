@@ -1,13 +1,13 @@
 ---
 layout: talk
-title: "Atelier doctoral sur l'HTR et eScriptorium : retour d'expérience"
+title: "Doctoral workshop on HTR and eScriptorium: feedback and lessons learned"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire · atelier doctoral sur l'HTR et eScriptorium"
-venue: "Séminaire organisé par le Centre Roland Mousnier, Faculté des Lettres de Sorbonne Université"
+event: "Doctoral seminar / workshop on HTR and eScriptorium"
+venue: "Seminar organised by the Centre Roland Mousnier, Faculty of Letters, Sorbonne University"
 location: "Paris, France"
 date: 2024-04-26
 ---
 
-Séminaire · atelier doctoral sur l'HTR et eScriptorium, Centre Roland Mousnier, Paris, 26 avril 2024.
+Doctoral seminar/workshop on HTR and eScriptorium, Centre Roland Mousnier, Paris, April 26, 2024.

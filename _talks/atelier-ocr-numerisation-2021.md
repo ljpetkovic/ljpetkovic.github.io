@@ -1,15 +1,15 @@
 ---
 layout: talk
-title: "Outils de numérisation de documents : transcription, OCR, HTR…"
+title: "Document digitisation tools: transcription, OCR, HTR…"
 collection: talks
 category: "atelier"
 type: "Workshop"
-event: "Atelier OCR"
-venue: "Atelier organisé par l'équipe-projet ObTIC, SCAI"
+event: "OCR Workshop"
+venue: "Workshop organised by the ObTIC project team, SCAI"
 location: "Paris, France"
 date: 2021-10-28
 authors:
   - "Motasem Alrahabi"
 ---
 
-Atelier OCR, SCAI, Paris, 28 octobre 2021.
+OCR workshop, SCAI, Paris, October 28, 2021.

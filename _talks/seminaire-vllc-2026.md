@@ -1,13 +1,13 @@
 ---
 layout: talk
-title: "Analyser les traces de la circulation des concepts dans des corpus patrimoniaux bruités : apports et limites des outils automatiques à partir du fonds Jean-Martin Charcot"
+title: "Tracing the circulation of concepts in noisy heritage corpora: contributions and limits of automatic tools using the Jean-Martin Charcot collection"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire de l'équipe « Variation Linguistique et Linguistique Computationnelle »"
-venue: "Séminaire organisé par Gaël Lejeune, Maison de la Recherche"
+event: "Seminar of the \"Linguistic Variation and Computational Linguistics\" team"
+venue: "Seminar organised by Gaël Lejeune, Maison de la Recherche"
 location: "Paris, France"
 date: 2026-06-11
 ---
 
-Séminaire de l'équipe « Variation Linguistique et Linguistique Computationnelle », Paris, 11 juin 2026.
+Seminar of the "Linguistic Variation and Computational Linguistics" team, Paris, June 11, 2026.

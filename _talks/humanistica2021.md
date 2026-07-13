@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Katabase : À la recherche des manuscrits vendus"
+title: "Katabase: In Search of Sold Manuscripts"
 collection: talks
 category: "colloque"
 type: "Conference"

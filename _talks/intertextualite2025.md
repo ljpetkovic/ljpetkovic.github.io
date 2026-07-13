@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Analyse de l'impact scientifique de Jean-Martin Charcot sur la littérature médicale en français du XIX<sup>e</sup> au XX<sup>e</sup> siècle"
+title: "Analysing Jean-Martin Charcot's scientific impact on French-language medical literature from the 19<sup>th</sup> to the 20<sup>th</sup> century"
 collection: talks
 type: "Conference"
 category: "colloque"

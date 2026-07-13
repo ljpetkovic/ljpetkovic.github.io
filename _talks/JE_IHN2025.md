@@ -1,11 +1,11 @@
 ---
 layout: talk
-title: "Analyse de l'influence de Jean-Martin Charcot par extraction de terminologie médicale : approche PatternRank"
+title: "Analysing Jean-Martin Charcot's influence through medical terminology extraction: the PatternRank approach"
 collection: talks
 category: "poster"
 type: "Poster"
 date: 2025-11-07
-venue: "Journée d'étude : Humanités Numériques et Intelligence Artificielle – Interactions / Altercations, Sorbonne Université"
+venue: "Study day: Digital Humanities and Artificial Intelligence – Interactions / Altercations, Sorbonne University"
 location: "Maison de la Recherche, Paris, France"
 links:
   - label: "Poster"

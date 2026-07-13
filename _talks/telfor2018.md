@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Implémentation de techniques de fouille de textes en Python avec NLTK"
+title: "Implementing text-mining techniques in Python with NLTK"
 collection: talks
 category: "congres"
 type: "Conference"

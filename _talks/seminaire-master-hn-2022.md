@@ -1,15 +1,15 @@
 ---
 layout: talk
-title: "Impact de la correction automatique de l'OCR/HTR sur la tâche de reconnaissance d'entités nommées dans un corpus bruité"
+title: "Impact of automatic OCR/HTR correction on named-entity recognition in a noisy corpus"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire pour les étudiants en Master, « Les humanités numériques littéraires »"
-venue: "Séminaire organisé par Glenn Roe, Maison de la Recherche"
+event: "Master's seminar \"Literary Digital Humanities\""
+venue: "Seminar organised by Glenn Roe, Maison de la Recherche"
 location: "Paris, France"
 date: 2022-11-16
 authors:
   - "Glenn Roe"
 ---
 
-Séminaire de Master « Les humanités numériques littéraires », Paris, 16 novembre 2022.
+Master's seminar "Literary Digital Humanities", Paris, November 16, 2022.

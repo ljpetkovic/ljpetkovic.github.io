@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Circulation du discours médical de Jean-Martin Charcot : premières observations"
+title: "Circulation of Jean-Martin Charcot's medical discourse: first observations"
 collection: talks
 category: "colloque"
 type: "Conference"

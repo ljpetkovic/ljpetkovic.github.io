@@ -1,13 +1,13 @@
 ---
 layout: talk
-title: "Origines et progrès du projet Charcot"
+title: "Origins and progress of the Charcot project"
 collection: talks
 category: "seminaire"
 type: "Seminar"
-event: "Séminaire de l'équipe « Linguistique Computationnelle – Rencontres Minute »"
-venue: "Séminaire organisé par Gaël Lejeune, Maison de la Recherche"
+event: "Seminar of the \"Computational Linguistics – Rencontres Minute\" team"
+venue: "Seminar organised by Gaël Lejeune, Maison de la Recherche"
 location: "Paris, France"
 date: 2024-09-12
 ---
 
-Séminaire « Linguistique Computationnelle – Rencontres Minute », Paris, 12 septembre 2024.
+Seminar "Computational Linguistics – Rencontres Minute", Paris, September 12, 2024.
