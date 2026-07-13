@@ -8,6 +8,9 @@ event: "RobusTAL22"
 venue: "1<sup>st</sup> study day on the robustness of NLP systems, Maison de la recherche"
 location: "Paris, France"
 date: 2022-11-25
+links:
+  - label: "HAL"
+    url: "https://hal.science/hal-03853541"
 ---
 
 1<sup>st</sup> study day on the robustness of NLP systems, Paris, November 25, 2022.

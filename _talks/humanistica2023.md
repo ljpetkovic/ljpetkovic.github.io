@@ -8,6 +8,9 @@ event: "Humanistica 2023"
 venue: "University of Geneva"
 location: "Geneva, Switzerland"
 date: 2023-06-23
+links:
+  - label: "HAL"
+    url: "https://hal.science/hal-04107099"
 abstract: ""
 pdf: ""
 ---

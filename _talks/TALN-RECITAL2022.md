@@ -14,6 +14,8 @@ authors:
 links:
   - label: "Programme"
     url: "https://taln2022.univ-avignon.fr/programme.php##P1"
+  - label: "HAL"
+    url: "https://hal.science/hal-03701464"
 ---
 
 Demonstration Pandore during TALN-RÉCITAL 2022.

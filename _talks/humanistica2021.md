@@ -16,6 +16,8 @@ authors:
 links:
   - label: "Programme"
     url: "https://humanistica2021.sciencesconf.org/browse/typdoc"
+  - label: "HAL"
+    url: "https://hal.science/hal-03066108"
 ---
 
 Presentation of the Katabase project.
