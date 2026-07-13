@@ -12,4 +12,4 @@ abstract: ""
 pdf: ""
 ---
 
-Paper presented at the UNIGE Data Science Day 2022, "Promises of Artificial Intelligence".
+Paper presented at the Humanistica 2023 conference.
