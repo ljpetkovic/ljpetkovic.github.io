@@ -12,7 +12,7 @@ links:
   - label: "Slides"
     url: "https://github.com/ljpetkovic/Seminaire_doctoral_CERES_270324/blob/main/0_main.pdf"
   - label: "Event"
-    url: "https://ceres.sorbonne-universite.fr/"
+    url: "https://ceres.sorbonne-universite.fr/%C3%A9v%C3%A9nements/"
 ---
 
 CERES doctoral seminar "Approaches to Digital Methods", Paris, March 27, 2024.
