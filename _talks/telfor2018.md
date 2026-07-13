@@ -9,6 +9,8 @@ venue: "Belgrade"
 location: "Serbia"
 date: 2018-11-26
 links:
+  - label: "Event"
+    url: "http://2018.telfor.rs/files/Program%20TELFOR%202018.pdf"
   - label: "HAL"
     url: "https://hal.science/hal-03091167"
 ---

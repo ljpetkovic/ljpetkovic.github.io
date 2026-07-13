@@ -10,6 +10,11 @@ location: "Grenoble, France"
 date: 2023-04-28
 authors:
   - "Caroline Koudoro-Parfait"
+links:
+  - label: "Slides"
+    url: "https://drive.google.com/file/d/1rna0SEBG0DRTy6IVAFl3WeXtpfbRITCC/view"
+  - label: "Event"
+    url: "https://je-bruit-corpus.sciencesconf.org/"
 ---
 
 Study day co-organised by the University of Grenoble Alpes and Roma La Sapienza, Grenoble, April 28, 2023.

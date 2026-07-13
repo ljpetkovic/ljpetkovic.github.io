@@ -8,11 +8,13 @@ event: "Data Science Day 2022"
 venue: "University of Geneva"
 location: "Geneva, Switzerland"
 date: 2022-09-15
+abstract: ""
+pdf: ""
 links:
   - label: "Slides"
     url: "/files/talks/data_science_day.pdf"
-abstract: ""
-pdf: ""
+  - label: "Event"
+    url: "https://datascience.unige.ch/recherche/uniges-data-science-days"
 ---
 
 Paper presented at the UNIGE Data Science Day 2022, "Promises of Artificial Intelligence".

@@ -12,8 +12,8 @@ authors:
   - "Johanna Cordova"
   - "Yoann Dupont"
 links:
-  - label: "Programme"
-    url: "https://taln2022.univ-avignon.fr/programme.php##P1"
+  - label: "Event"
+    url: "https://taln2022.univ-avignon.fr/programme.php#P1"
   - label: "HAL"
     url: "https://hal.science/hal-03701464"
 ---

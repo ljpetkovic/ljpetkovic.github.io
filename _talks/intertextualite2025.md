@@ -9,7 +9,9 @@ venue: "Sorbonne Nouvelle — Maison de la Recherche &amp; École des Chartes"
 location: "Paris, France"
 date: 2025-07-01
 links:
-  - label: "Programme"
+  - label: "Slides"
+    url: "https://github.com/ljpetkovic/Colloque_Intertextualite_030725/blob/main/0_main.pdf"
+  - label: "Event"
     url: "https://www.fabula.org/actualites/122618/le-texte-de-l-autre-dialogue-interdisciplinaire-autour-de-l-intertextualite-et-du-discours-rapporte.html"
 ---
 

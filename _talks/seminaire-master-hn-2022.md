@@ -10,6 +10,11 @@ location: "Paris, France"
 date: 2022-11-16
 authors:
   - "Glenn Roe"
+links:
+  - label: "Slides"
+    url: "https://drive.google.com/file/d/1wM6et7j3TUOxOOV0RI7QeqTBW3-CYFaK/view"
+  - label: "Event"
+    url: "https://obtic.sorbonne-universite.fr/actualite/programme-du-seminaire-les-humanites-numeriques-litteraires/"
 ---
 
 Master's seminar "Literary Digital Humanities", Paris, November 16, 2022.

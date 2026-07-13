@@ -14,7 +14,9 @@ authors:
   - "Matthias Gilles Levenson"
   - "Lucie Rondeau du Noyer"
 links:
-  - label: "Programme"
+  - label: "Slides"
+    url: "https://drive.google.com/file/d/10pT4GlT1nZ2xYDOFOEKemjq88FrE3l6i/view"
+  - label: "Event"
     url: "https://humanistica2021.sciencesconf.org/browse/typdoc"
   - label: "HAL"
     url: "https://hal.science/hal-03066108"

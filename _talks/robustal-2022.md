@@ -9,6 +9,10 @@ venue: "1<sup>st</sup> study day on the robustness of NLP systems, Maison de la 
 location: "Paris, France"
 date: 2022-11-25
 links:
+  - label: "Slides"
+    url: "https://www.atala.org/sites/default/files/robustal2022.pdf"
+  - label: "Event"
+    url: "https://www.atala.org/content/robustesse-des-systemes-de-tal"
   - label: "HAL"
     url: "https://hal.science/hal-03853541"
 ---

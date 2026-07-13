@@ -11,6 +11,11 @@ date: 2021-06-10
 authors:
   - "Simon Gabay"
   - "Alexandre Bartz"
+links:
+  - label: "Slides"
+    url: "https://jerteh.rs/wp-content/uploads/2021/06/Katabase_slides.pdf"
+  - label: "Event"
+    url: "https://jerteh.rs/index.php/en/seminar-materials/"
 ---
 
 JeRTeh seminar, Belgrade, June 10, 2021.
