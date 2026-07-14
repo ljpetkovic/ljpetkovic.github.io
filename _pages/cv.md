@@ -15,7 +15,7 @@ You can also download it using the button below.
 
 <div style="width:100%; height:85vh; border: 1px solid #ccc;">
   <iframe 
-      src="{{ site.baseurl }}/assets/cv/CV_en.pdf" 
+      src="{{ site.baseurl }}/assets/cv/CV_en.pdf?v=20260714" 
       style="width:100%; height:100%;" 
       frameborder="0">
   </iframe>
